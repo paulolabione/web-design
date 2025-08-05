@@ -1,0 +1,18 @@
+p {
+    background-color: rgba(0, 255, 0, 0.4);
+    color: rgb(255, 255, 255);
+}
+
+body {
+    background-color: #ffffff;
+}
+
+/*
+    RGB = RED-GREEN-BLUE
+
+    RGBA = RED-GREEN-BLUE-OPACITY(0.0 - 1.0)
+
+    #rrggbb
+    00-ff
+*/
+

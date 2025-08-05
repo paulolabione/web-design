@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="description" content="This is my website">
+        <meta name="keywords" content="dogs, cats">
+        <title>Ids</title>
+        <style>
+            #my-id {
+                color: green;
+            }
+            #my-id2 {
+                background-color: cyan;
+            }
+            .my-class {
+                color: pink;
+            }
+            .my-class2 {
+                background-color: cyan;
+            }
+            #id-div {
+                border: 3px solid black;
+                background-color: yellow
+            }
+            #id-test {
+                font-size: 30px;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="id-div">
+        <p id="my-id">Hello this is a paragraph with ids.</p>
+        <p class="my-class my-class2" id="id-test">Hello this is a paragraph with classes</p>
+        <p id="my-id2">Hello this is another paragraph with another id</p>
+        </div>
+          <div id="id-div">
+        <p id="my-id">Hello this is a paragraph with ids.</p>
+        <p class="my-class my-class2">Hello this is a paragraph with classes</p>
+        <p id="my-id2">Hello this is another paragraph with another id</p>
+        </div>
+          <div id="id-div">
+        <p id="my-id">Hello this is a paragraph with ids.</p>
+        <p class="my-class my-class2">Hello this is a paragraph with classes</p>
+        <p id="my-id2">Hello this is another paragraph with another id</p>
+        </div>
+        <button onclick="myFunction()">Trigger</button>
+
+        <script>
+            function myFunction() {
+                alert('Hello from javascript');
+            }
+        </script>
+    </body>
+</html>

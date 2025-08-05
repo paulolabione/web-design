@@ -1,0 +1,16 @@
+p {
+    font-size: xx-large;
+}
+
+h1 {
+    color: blue;
+}
+
+#one {
+    background-color: cyan;
+}
+
+.one {
+    font-size: 300%;
+    font-weight: 900;
+}
