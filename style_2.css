@@ -1,11 +1,33 @@
-p {
-    background-color: rgba(0, 255, 0, 0.4);
+/* p {
+    background-color: rgba(213, 171, 135, 0.4);
     color: rgb(255, 255, 255);
 }
 
 body {
-    background-color: #ffffff;
+    background-color: cyan;
 }
+
+div {
+    background-color: blue;
+    color: white;
+}
+
+h1 {
+    background-color: green;
+}
+
+h2 {
+    background-color: orange;
+} */
+
+/* div {
+    background-image: url(images/Shorts.jpg);
+} */
+
+body {
+    background-image: url(images/Shorts.jpg);
+}
+
 
 /*
     RGB = RED-GREEN-BLUE
