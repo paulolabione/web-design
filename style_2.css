@@ -25,8 +25,21 @@ h2 {
 } */
 
 body {
-    background-image: url(images/Shorts.jpg);
+    /* background-image: url(images/Shorts.jpg); */
+    /* background-image: repeat;    default
+    background-repeat: repeat-x;
+    background-repeat: repeat-y; */
+    /* background-repeat: no-repeat;
+    /* background-attachment: fixed;  default */
+    /* background-attachment: scroll; */
+    /* background-position: right top; */
+
+    /* background: color image repeat attachment position; */
+
+    background: orange url(images/shorts.jpg) no-repeat fixed right top;
+
 }
+
 
 
 /*

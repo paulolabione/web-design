@@ -1,0 +1,23 @@
+/* p {
+    border: red 3px solid;
+} */
+
+/* .border {
+    border: green 3px solid;
+    border-width: 5px;
+    border-style: dashed;
+    border-color: blue;
+    border-color: blue red black orange;
+    border-left: blue;
+} */
+
+p {
+    border: solid green;
+    border-bottom: 3px solid red;
+    /* margin-top: 50px; */
+    /* margin: 30px 50px 30px; */
+    /* margin: 30px 30px; */
+    margin-right: 100px;
+    margin-bottom: 100px;
+
+}
