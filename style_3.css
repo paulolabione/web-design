@@ -10,14 +10,44 @@
     border-color: blue red black orange;
     border-left: blue;
 } */
-
+/*
 p {
     border: solid green;
     border-bottom: 3px solid red;
-    /* margin-top: 50px; */
-    /* margin: 30px 50px 30px; */
-    /* margin: 30px 30px; */
+    margin-top: 50px;
+    margin: 30px 50px 30px;
+    margin: 30px 30px;
     margin-right: 100px;
     margin-bottom: 100px;
+} */
 
+/* p { */
+    /* border: 3px solid green; */
+    /* padding-left: 30px;
+    padding-top: 70px;
+    padding-bottom: 30px; */
+    /* padding: 80px 40px 60px; */
+    /* padding: 80px 40px; */
+/* } */
+/*
+h3 {
+    width: 130px;
+    height: 140px;
+    border: 10px solid black;
+    padding-top: 30px;
+} */
+
+/* div {
+    width: 130px;
+    height: 150pxk;
+    border: 10px solid black;
+    margin: 40px;
+    padding: 40px;
+} */
+
+p {
+    /* outline-color: red;
+    outline-style: solid; */
+    outline:  8px solid red;
+    border: 8px solid blue;
 }
