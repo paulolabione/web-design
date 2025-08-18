@@ -45,9 +45,37 @@ h3 {
     padding: 40px;
 } */
 
-p {
-    /* outline-color: red;
+/* p {
+    outline-color: red;
     outline-style: solid; */
-    outline:  8px solid red;
+    /* outline:  8px solid red;
     border: 8px solid blue;
+} */
+
+/* h2 {
+    color: white;
+    background-color: red;
+    text-align: right;
+}
+
+div {
+    text-align: center;
+} */
+
+/* a {
+    text-decoration: overline; line-through, none, underline
+} */
+
+/* h1 {
+    text-transform: capitalize;
+} */
+
+p {
+    text-indent: 70%;
+    letter-spacing: 15px;
+}
+
+h2 {
+    line-height: 10px;
+    word-spacing: 30px;
 }
